@@ -11,7 +11,6 @@ Installation
 1. Clone the Repository:
 ````
 git clone https://github.com/Voxny404/keyboard-input-simulation.git
-
 ````
 2. Build the Project:
 
@@ -39,7 +38,6 @@ git clone https://github.com/Voxny404/keyboard-input-simulation.git
 3. Test the keyboard.exe:
 ````
 keyboard.exe <layout> <key>
-
 ````
 - <layout>: Specify the keyboard layout (e.g., "english" or "german").
 - <key>: The key to be simulated (e.g., "enter", "a", "1").
